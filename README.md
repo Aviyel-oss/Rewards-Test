@@ -16,3 +16,6 @@ Here is a step by step intro to how this works.
  1. Select the activities and contributions that you would like to include in the program. You can always add more activities later. From our end, we are also adding more activities and details every other week. (add image )
  2. Points can be configured against each activity. Obviously, each activity and contribution would have a different impact and need a different score. Also, did you notice we are calling our points as seeds. We think these rewards are the seeds that is going to grow into fruiting trees in the ecosystem. However, each project can have a different kind of seed that best resonates with their ideology, brand or vision. ( add image ).
  3. Seeds unlock levels, and each level would have a badge associated with it. We are building a library of themes that the project can choose from, and are working with a bunch of amazing design contributors from across the world to make sure this theme library is awesome and the badges are kickass.
+
+
+Adding something
